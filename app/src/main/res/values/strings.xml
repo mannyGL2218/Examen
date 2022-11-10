@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="tv_titulo">Información</string>
+    <string name="spk">Datos</string>
+    <string name="txt_matricula">Matricula</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_edad">Edad</string>
+    <string name="txt_semestre">Semestre</string>
+    <string name="txt_promedio">Promedio</string>
+    <string name="txt_estado">Estado</string>
+    <string name="tv_aprobado">Aprobado</string>
+    <string name="tv_reprobado">No acreditado</string>
+    <string name="btn_agregar">Agregar</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_aceptar">Aceptar</string>
+</resources>
